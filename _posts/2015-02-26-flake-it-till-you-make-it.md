@@ -7,6 +7,6 @@ published: true
 date: '2020-03-23'
 ---
 
-- Graduação em Engenharua de Agrimensura e Cartográfica  
+- Graduação em Engenharia de Agrimensura e Cartográfica  
 Universidade Federal de Viçosa(UFV)  
 
