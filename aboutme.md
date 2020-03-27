@@ -4,9 +4,7 @@ title: Sobre mim
 subtitle: 
 ---
 
-Meu nome é Cristiano.
-
-### História
+### Quem é Sabrina?
 
 
 Sou graduado em Licenciatura em Matemática pela Universidade Federal de Viçosa (2015) e mestrado em Estatística Aplicada e Biometria pela Universidade Federal de Viçosa (2018). 
