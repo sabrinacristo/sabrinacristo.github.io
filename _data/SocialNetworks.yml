@@ -9,12 +9,12 @@
 
 facebook:
   name: "Facebook"
-  urlTemplate: "https://www.facebook.com/people/Cristiano-de-Oliveira/100010678895005"
+  urlTemplate: "https://www.facebook.com/sabrinapdecristo"
   icon: "fab fa-facebook"
 
 github:
   name: "GitHub"
-  urlTemplate: "https://github.com/Cristiano2132"
+  urlTemplate: "https://github.com/sabrinacristo"
   icon: "fab fa-github"
 
 twitter:
