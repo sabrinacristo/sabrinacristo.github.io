@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Cristiano Ferreira de Oliveira
+title: Sabrina Lourdes Pereira de Cristo
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -68,7 +68,7 @@ author:
 # Para modificar, basta adicionar o link do perfil em SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: "cristiano2132.ufv@gmail.com"
+  email: "sabrina.cristo@ufv.br"
   facebook: daattali
   github: daattali
 #  twitter: daattali
