@@ -10,22 +10,14 @@ date: '2020-03-23'
 Ciência e tecnologia  
 [Laboratório de Análises e Pesquisas em Estatística Aplicada (LAPEA)](http://www.ppestbio.ufv.br/?page_id=2143)
 
-
-- Professor Temporário  
-Período: 2019 -2019  
-Florestal, Minas Gerais, Brasil  
-Disciplina: Estatística Aplicada às Ciências Biológicas e Agrárias, na disciplina CBF 790 - Tópicos  Especiais I, com duração de 30 horas (curso de verão).
-
-- Coordenador  
-Período: 2018 - 2019  
+- Estagiária 
+Período: Outubro 2017 - Dezembro 2018  
 Ciência e tecnologia  
-GESTBIO - [Grupo de Estudo em Estatística Aplicada e Biometria](https://www.gestbio.ufv.br/)  
+GENTE - [Grupo de Engenharia para Gestão Territorial]  
+
+- Diretora Presidente
+Período: 2015 -2018  
+Empresa Júnior EJEAG - Associação Júnior de Agrimensura 
 
 
 
-
-- Instrutor  
-Empresa: Universidade Federal de Viçosa  
-2019 - 209  
-Ciência e tecnologia  
-Estatística Experimental: Análise com o software R (Treinamento - 24 horas)
